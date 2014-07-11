@@ -1,0 +1,7 @@
+Minot
+Kenmare
+Bismarck
+*
+Minot	Kenmare	90	90
+Minot	Bismarck	10	10
+*

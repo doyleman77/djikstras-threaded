@@ -1,0 +1,11 @@
+Minot
+Bismarck
+Mandan
+Kenmare
+*
+Minot	Kenmare	60	45
+Minot	Bismarck	150	120
+Bismarck	Minot	150	120
+Bismarck	Mandan	15	10
+Mandan	Bismarck	15	10
+Kenmare	Minot	60	45

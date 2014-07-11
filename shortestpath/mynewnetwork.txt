@@ -1,0 +1,11 @@
+Minot
+Bismarck
+Mandan
+Grand Forks
+*
+Minot	Bismarck	150	120
+Minot	Grand Forks	300	400
+Bismarck	Minot	150	120
+Bismarck	Mandan	15	10
+Mandan	Bismarck	15	10
+*
